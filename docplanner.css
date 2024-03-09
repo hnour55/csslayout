@@ -1,0 +1,36 @@
+.lead__logo {
+    display: block;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    width: 70px ;
+    height: 50px;
+}
+.active{
+    font-weight: 500;
+    color: #00b39b;;
+}
+.nv{
+    color: #ababab;
+}
+h3{
+    font-weight: lighter;
+    color: #00b39b;
+}
+.aa{
+    background-color: #00b39b;
+    color: azure;
+}
+p{
+    margin-left: 5px;
+}
+.bb{
+    background-color: #4760ed;
+    color: azure;
+}
+.cc{
+    background-color: #262928;
+    color: azure;
+}
